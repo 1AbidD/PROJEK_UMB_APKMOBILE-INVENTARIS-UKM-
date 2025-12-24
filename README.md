@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # inventaris_ukm
 
 A new Flutter project.
@@ -17,4 +17,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # PROJEK_UMB_APKMOBILE-INVENTARIS-UKM-
->>>>>>> df96f73ca97751765f1638327091db35d42cf4bb
+
+JANGAN LUPA UNTUK FLUTTER BUILD SEBELUM DIGUNAKAN, DAN JUGA INSTALL JAVA DEPEDENCIES 
+LEBIH TEPATNYA JDK 17 ( TIDAK BISA UPLOAD KE GIT KARENA DI BLOKIR ) 
+
+SEMANGAT !!!
