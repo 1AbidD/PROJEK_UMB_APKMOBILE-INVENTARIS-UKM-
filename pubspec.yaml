@@ -1,0 +1,39 @@
+name: inventaris_ukm
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.2.8
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  intl: ^0.18.1
+  image_picker: ^1.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^4.0.0
+
+# Konfigurasi icon (HANYA SATU KALI!)
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/logoApp.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/logoUkm.png
+    - assets/icon/logoApp.png
